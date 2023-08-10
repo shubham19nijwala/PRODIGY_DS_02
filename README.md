@@ -1,6 +1,9 @@
 # PRODIGY_DS_02
+@Intern at Prodigy Infotech
+Task Number : 01
 
-## Dataset Link : https://drive.google.com/file/d/17hOkcikYE3uAgecZWpNUB72oaJMByWV5/view?usp=sharing
+## Dataset Link : 
+https://drive.google.com/file/d/17hOkcikYE3uAgecZWpNUB72oaJMByWV5/view?usp=sharing
 
 ![hotel booking](https://github.com/shubham19nijwala/EDA-Hotel_Booking/assets/130289158/6b401db1-05d1-420a-83a1-3941e8cd5d97)
 
